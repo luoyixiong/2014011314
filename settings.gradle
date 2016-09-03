@@ -1,1 +1,1 @@
-include ':app', ':implicitintent', ':callmob', ':filerw', ':intentfiliter', ':dialogbox', ':sdcardwr', ':sharedpre', ':sqlitetest'
+include ':app', ':implicitintent', ':callmob', ':filerw', ':intentfiliter', ':dialogbox', ':sdcardwr', ':sharedpre', ':sqlitetest', ':menutest'
