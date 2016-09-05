@@ -3,6 +3,8 @@ package com.example.sqlitetest;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.nfc.Tag;
+import android.util.Log;
 
 /**
  * Created by Luo on 2016/9/2.
@@ -10,8 +12,9 @@ import android.database.sqlite.SQLiteOpenHelper;
 public class WordsDBHelper extends SQLiteOpenHelper {
     private final static String DATABASE_NAME = "wordsdb";//数据库名字
      private final static int DATABASE_VERSION = 1;//数据库版本
+    final String TAG = "createsql";
     // 建表SQL
-    private final static String SQL_CREATE_DATABASE = "CREATE TABLE" + Words.Word.TABLE_NAME +
+    private final static String SQL_CREATE_DATABASE = "CREATE TABLE " + Words.Word.TABLE_NAME +
             " (" + Words.Word._ID + " INTEGER PRIMARY KEY AUTOINCREMENT," + Words.Word.COLUMN_NAME_WORD
             + " TEXT" + "," + Words.Word.COLUMN_NAME_MEANING + " TEXT" + "," + Words.Word.
             COLUMN_NAME_SAMPLE + " TEXT" + " )";
@@ -20,12 +23,13 @@ public class WordsDBHelper extends SQLiteOpenHelper {
     private final static String SQL_DELETE_DATABASE = "DROP TABLE IF EXISTS " + Words.Word.TABLE_NAME;
 
     public WordsDBHelper(Context context) {
-        super(context, DATABASE_NAME, null, DATABASE_VERSION);
 
+        super(context, DATABASE_NAME, null, DATABASE_VERSION);
     }
     @Override
     public void onCreate(SQLiteDatabase sqLiteDatabase) {
         //创建数据库
+        Log.i(TAG,SQL_CREATE_DATABASE);
         sqLiteDatabase.execSQL(SQL_CREATE_DATABASE);
     }
     @Override
@@ -35,9 +39,8 @@ public class WordsDBHelper extends SQLiteOpenHelper {
         onCreate(sqLiteDatabase);
     }
 
-    public static void main(String[] args) {
 
-    }
+
 }
 
 
