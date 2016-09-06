@@ -21,7 +21,13 @@
         <activity
             android:name=".SearchActivity"
             android:label="@string/title_activity_search"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <provider
+            android:name=".MyContentProvider"
+            android:authorities="com.example.sqlitetest.mycontentprovider"
+            android:enabled="true"
+            android:exported="true"></provider>
     </application>
 
 </manifest>

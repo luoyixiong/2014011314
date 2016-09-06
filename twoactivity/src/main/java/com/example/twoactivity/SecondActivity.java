@@ -15,15 +15,15 @@ public class SecondActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second);
-        Button button = (Button)this.findViewById(R.id.button2);
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(SecondActivity.this,MainActivity.class);
-                startActivity(intent);
-                finish();
-            }
-        });
-    }
+    Button button = (Button)this.findViewById(R.id.button2);
+    button.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View v) {
+            Intent intent = new Intent(SecondActivity.this,MainActivity.class);
+            startActivity(intent);
+            finish();
+        }
+    });
+}
 
 }

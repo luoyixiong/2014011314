@@ -9,14 +9,21 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/accesswordsapp" />
             <option value="$PROJECT_DIR$/activitycommunication" />
             <option value="$PROJECT_DIR$/activitymessage" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bindserviceapp" />
+            <option value="$PROJECT_DIR$/broadcast" />
+            <option value="$PROJECT_DIR$/broadrecivertest" />
             <option value="$PROJECT_DIR$/callmob" />
             <option value="$PROJECT_DIR$/cboxandrbtn" />
+            <option value="$PROJECT_DIR$/contentobserver" />
             <option value="$PROJECT_DIR$/dialogbox" />
             <option value="$PROJECT_DIR$/filerw" />
             <option value="$PROJECT_DIR$/fregmenttest" />
+            <option value="$PROJECT_DIR$/getlianxiren" />
+            <option value="$PROJECT_DIR$/handlertest" />
             <option value="$PROJECT_DIR$/implicitintent" />
             <option value="$PROJECT_DIR$/intentfiliter" />
             <option value="$PROJECT_DIR$/landport" />
@@ -25,6 +32,7 @@
             <option value="$PROJECT_DIR$/menutest" />
             <option value="$PROJECT_DIR$/recylerlsit" />
             <option value="$PROJECT_DIR$/sdcardwr" />
+            <option value="$PROJECT_DIR$/serviceapp" />
             <option value="$PROJECT_DIR$/sharedpre" />
             <option value="$PROJECT_DIR$/sqlitetest" />
             <option value="$PROJECT_DIR$/twoactivity" />
@@ -33,14 +41,21 @@
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/accesswordsapp" />
             <option value="$PROJECT_DIR$/activitycommunication" />
             <option value="$PROJECT_DIR$/activitymessage" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bindserviceapp" />
+            <option value="$PROJECT_DIR$/broadcast" />
+            <option value="$PROJECT_DIR$/broadrecivertest" />
             <option value="$PROJECT_DIR$/callmob" />
             <option value="$PROJECT_DIR$/cboxandrbtn" />
+            <option value="$PROJECT_DIR$/contentobserver" />
             <option value="$PROJECT_DIR$/dialogbox" />
             <option value="$PROJECT_DIR$/filerw" />
             <option value="$PROJECT_DIR$/fregmenttest" />
+            <option value="$PROJECT_DIR$/getlianxiren" />
+            <option value="$PROJECT_DIR$/handlertest" />
             <option value="$PROJECT_DIR$/implicitintent" />
             <option value="$PROJECT_DIR$/intentfiliter" />
             <option value="$PROJECT_DIR$/landport" />
@@ -49,6 +64,7 @@
             <option value="$PROJECT_DIR$/menutest" />
             <option value="$PROJECT_DIR$/recylerlsit" />
             <option value="$PROJECT_DIR$/sdcardwr" />
+            <option value="$PROJECT_DIR$/serviceapp" />
             <option value="$PROJECT_DIR$/sharedpre" />
             <option value="$PROJECT_DIR$/sqlitetest" />
             <option value="$PROJECT_DIR$/twoactivity" />
