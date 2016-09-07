@@ -11,18 +11,21 @@
       <module fileurl="file://$PROJECT_DIR$/broadcast/broadcast.iml" filepath="$PROJECT_DIR$/broadcast/broadcast.iml" />
       <module fileurl="file://$PROJECT_DIR$/broadrecivertest/broadrecivertest.iml" filepath="$PROJECT_DIR$/broadrecivertest/broadrecivertest.iml" />
       <module fileurl="file://$PROJECT_DIR$/callmob/callmob.iml" filepath="$PROJECT_DIR$/callmob/callmob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cameraapp/cameraapp.iml" filepath="$PROJECT_DIR$/cameraapp/cameraapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/cboxandrbtn/cboxandrbtn.iml" filepath="$PROJECT_DIR$/cboxandrbtn/cboxandrbtn.iml" />
       <module fileurl="file://$PROJECT_DIR$/contentobserver/contentobserver.iml" filepath="$PROJECT_DIR$/contentobserver/contentobserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/dialogbox/dialogbox.iml" filepath="$PROJECT_DIR$/dialogbox/dialogbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/filerw/filerw.iml" filepath="$PROJECT_DIR$/filerw/filerw.iml" />
       <module fileurl="file://$PROJECT_DIR$/fregmenttest/fregmenttest.iml" filepath="$PROJECT_DIR$/fregmenttest/fregmenttest.iml" />
       <module fileurl="file://$PROJECT_DIR$/getlianxiren/getlianxiren.iml" filepath="$PROJECT_DIR$/getlianxiren/getlianxiren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graphicsapp/graphicsapp.iml" filepath="$PROJECT_DIR$/graphicsapp/graphicsapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/handlertest/handlertest.iml" filepath="$PROJECT_DIR$/handlertest/handlertest.iml" />
       <module fileurl="file://$PROJECT_DIR$/implicitintent/implicitintent.iml" filepath="$PROJECT_DIR$/implicitintent/implicitintent.iml" />
       <module fileurl="file://$PROJECT_DIR$/intentfiliter/intentfiliter.iml" filepath="$PROJECT_DIR$/intentfiliter/intentfiliter.iml" />
       <module fileurl="file://$PROJECT_DIR$/landport/landport.iml" filepath="$PROJECT_DIR$/landport/landport.iml" />
       <module fileurl="file://$PROJECT_DIR$/lifecycle/lifecycle.iml" filepath="$PROJECT_DIR$/lifecycle/lifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/listviewtest/listviewtest.iml" filepath="$PROJECT_DIR$/listviewtest/listviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mediaplayer/mediaplayer.iml" filepath="$PROJECT_DIR$/mediaplayer/mediaplayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/menutest/menutest.iml" filepath="$PROJECT_DIR$/menutest/menutest.iml" />
       <module fileurl="file://$PROJECT_DIR$/recylerlsit/recylerlsit.iml" filepath="$PROJECT_DIR$/recylerlsit/recylerlsit.iml" />
       <module fileurl="file://$PROJECT_DIR$/sdcardwr/sdcardwr.iml" filepath="$PROJECT_DIR$/sdcardwr/sdcardwr.iml" />
