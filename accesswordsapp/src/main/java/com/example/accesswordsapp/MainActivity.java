@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
         resolver = this.getContentResolver();
 
-//得到按钮
+
         Button buttonAll = (Button) findViewById(R.id.buttonAll);
         Button buttonInsert = (Button) findViewById(R.id.buttonInsert);
         Button buttonDelete = (Button) findViewById(R.id.buttonDelete);
@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         Button buttonUpdate = (Button) findViewById(R.id.buttonUpdate);
         Button buttonSearch = (Button) findViewById(R.id.buttonSearch);
 
-        //为每个按钮设置监听器
+
         buttonAll.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
         buttonDelete.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                String id="3";//简单起见，这里指定ID，用户可在程序中设置id的实际值
+                String id="3";
                 Uri uri = Uri.parse(Words.Word.CONTENT_URI_STRING + "/" + id);
                 int result = resolver.delete(uri, null, null);
             }

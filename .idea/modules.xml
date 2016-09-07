@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/landport/landport.iml" filepath="$PROJECT_DIR$/landport/landport.iml" />
       <module fileurl="file://$PROJECT_DIR$/lifecycle/lifecycle.iml" filepath="$PROJECT_DIR$/lifecycle/lifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/listviewtest/listviewtest.iml" filepath="$PROJECT_DIR$/listviewtest/listviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logcatapp/logcatapp.iml" filepath="$PROJECT_DIR$/logcatapp/logcatapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/mediaplayer/mediaplayer.iml" filepath="$PROJECT_DIR$/mediaplayer/mediaplayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/menutest/menutest.iml" filepath="$PROJECT_DIR$/menutest/menutest.iml" />
       <module fileurl="file://$PROJECT_DIR$/recylerlsit/recylerlsit.iml" filepath="$PROJECT_DIR$/recylerlsit/recylerlsit.iml" />
