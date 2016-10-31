@@ -30,6 +30,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
     public int getItemCount() {
         return mDataset.length;
     }
+
     public class ViewHolder extends RecyclerView.ViewHolder {
         public TextView mTextView;
         public ViewHolder(View itemView) {

@@ -34,6 +34,7 @@
       <module fileurl="file://$PROJECT_DIR$/sharedpre/sharedpre.iml" filepath="$PROJECT_DIR$/sharedpre/sharedpre.iml" />
       <module fileurl="file://$PROJECT_DIR$/sqlitetest/sqlitetest.iml" filepath="$PROJECT_DIR$/sqlitetest/sqlitetest.iml" />
       <module fileurl="file://$PROJECT_DIR$/twoactivity/twoactivity.iml" filepath="$PROJECT_DIR$/twoactivity/twoactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wordbookpro/wordbookpro.iml" filepath="$PROJECT_DIR$/wordbookpro/wordbookpro.iml" />
     </modules>
   </component>
 </project>
