@@ -115,3 +115,9 @@ cameraapp
 
 <h3>30.简单图形绘制</h3><br>
 graphicsapp
+<h3>实验一：计算器</h3><br>
+https://github.com/luoyixiong/Calculator
+<h3>实验二：单词本</h3><br>
+wordbookpro
+<h3>综合实验 拼图游戏</h3><br>
+https://github.com/luoyixiong/Puzzle
